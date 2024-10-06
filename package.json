@@ -1,0 +1,15 @@
+{
+  "name": "ahpx-home",
+  "version": "1.0.0",
+  "description": "AHpx's home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ahpx-home"
+  },
+  "author": "AHpx",
+  "license": "MIT"
+}
